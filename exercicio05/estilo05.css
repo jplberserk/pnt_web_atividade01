@@ -1,0 +1,16 @@
+.lista-ordenada li {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.lista-ordenada li:first-child {
+    background-color: darkred;
+    color: darkorange;
+}
+
+.lista-ordenada li:last-child {
+    background-color: blue;
+    border: none;
+}

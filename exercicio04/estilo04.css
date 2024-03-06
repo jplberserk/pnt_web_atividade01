@@ -1,0 +1,32 @@
+.caixa-maior {
+    width: 400px;
+    height: 400px;
+    border-radius: 15px;
+    border: 2px solid darkblue;
+    padding: 20px;
+    background-image: url(gnu-linux.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.caixa-menor-1 {
+    width: 100px;
+    height: 80px;
+    border: 1px solid darkblue;
+    padding: 10px;
+    position: relative;
+    bottom: 10px;
+    background-color: gray;
+}
+
+.caixa-menor-2 {
+    width: 100px;
+    height: 80px;
+    border: 1px solid darkblue;
+    padding: 10px;
+    padding: 10px;
+    position: relative;
+    top: 207px;
+    background-color: black;
+}
